@@ -6,7 +6,7 @@
 
 - Júlia Konishi – 569506
 - João Vitor Giadans – 571608
-- João Victor Scheron – 568883
+- João Victor Scheren – 568883
 
 ## Contexto
 
